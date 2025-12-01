@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brenofar&label=Profile%20views&color=0e75b6&style=flat" alt="brenofar" /> </p>
 
-- 🌱 I’m currently learning **Java, JPA, SpringBoot to Model View Controller Services**
+- 🌱 I’m currently learning **Next.js and Nest.js using Docker**
 
 - 💬 Ask me about **anything, i would like to discuss**
 
