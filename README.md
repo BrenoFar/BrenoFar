@@ -1,24 +1,69 @@
-
 <h1 align="center">Hi 👋, I'm Breno Farias</h1>
-<h3 align="center">Dev Student</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<h3 align="center">Full-Stack Software Developer | SaaS Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenofar&label=Profile%20views&color=0e75b6&style=flat" alt="brenofar" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brenofar&label=Profile%20views&color=0e75b6&style=flat" alt="brenofar" />
+</div>
 
-- 🌱 I’m currently learning **Next.js and Nest.js using Docker**
+<br/>
 
-- 💬 Ask me about **anything, i would like to discuss**
+<div align="center">
+  <img align="center" alt="Coding" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Building%20Scalable%20Solutions&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Next.js%20•%20NestJS%20•%20Docker%20•%20Cloudflare&descAlignY=55&descAlign=50">
+</div>
 
-- 📫 Contact me **brenodasfarias2001@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think you should not be reading this now**
+### 🚀 About Me
+
+I'm a Full-Stack Developer based in Brazil, focused on building high-performance SaaS applications. Currently architecting and developing the **Deska Ecosystem** (Management & Finance) using modern Monorepo strategies.
+
+- 🔭 I’m currently working on **[Deska Gestão](https://app.deskagestao.com.br) & [Deska Fin](https://fin.deskagestao.com.br)**
+- 🌱 I’m currently deepening my knowledge in **Microservices, Turborepo, and System Architecture**
+- 💬 Ask me about **SaaS Development, Dockerizing Apps, and Next.js/NestJS integration**
+- 📫 Contact me: **[breno.farias@deskagestao.com.br](mailto:breno.farias@deskagestao.com.br)**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /> </a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" /> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /> </a>
+  
+  <br/>
+  
+  <!-- Backend -->
+  <a href="https://nestjs.com/" target="_blank"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs" /> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> </a>
+  <a href="https://www.prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="prisma" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
+
+  <br/>
+
+  <!-- DevOps & Tools -->
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
+  <a href="https://turbo.build/" target="_blank"> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="turborepo" /> </a>
+  <a href="https://www.cloudflare.com/" target="_blank"> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="cloudflare" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
+</p>
+
+---
+
+### 💼 Current Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Deska Gestão** | Enterprise Management System (ERP) for small businesses. | `Next.js` `NestJS` `PostgreSQL` |
+| **Deska Fin** | Personal and Business Financial Control SaaS. | `Next.js` `NestJS` `Prisma` |
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/breno-farias-2864271a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/breno-farias-2864271a7/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/brenodsf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/brenodsf/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/breno-farias-2864271a7/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.instagram.com/brenodsf/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
-
-<h3 align="left">Languages and Tools that im studying:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
