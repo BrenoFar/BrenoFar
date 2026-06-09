@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Breno Farias</h1>
+<h1 align="center">Hi, I'm Breno Farias</h1>
 <h3 align="center">Full-Stack Software Developer | SaaS Builder</h3>
 
 <div align="center">
