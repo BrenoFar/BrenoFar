@@ -17,7 +17,7 @@
 
 I'm a Full-Stack Developer based in Brazil, focused on building high-performance SaaS applications. Currently architecting and developing the **Deska Ecosystem** (Management & Finance) using modern Monorepo strategies.
 
-- 🔭 I’m currently working on **[Deska Gestão](https://app.deskagestao.com.br) & [Deska Fin](https://fin.deskagestao.com.br)**
+- 🔭 I’m currently working on **[Deska Gestão](https://app.deskagestao.com.br) & [Deska Fin](https://wa.deskagestao.com.br)**
 - 🌱 I’m currently deepening my knowledge in **Microservices, Turborepo, and System Architecture**
 - 💬 Ask me about **SaaS Development, Dockerizing Apps, and Next.js/NestJS integration**
 - 📫 Contact me: **[breno.farias@deskagestao.com.br](mailto:breno.farias@deskagestao.com.br)**
